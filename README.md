@@ -1,2 +1,2 @@
-# mac-setup
-Project to setup mac working environment
+# Dotfiles
+Project for my own Dotfiles
